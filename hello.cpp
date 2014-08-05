@@ -3,6 +3,6 @@ using namespace std;
 int main()
 {
 cout<<"\nHELLO...!!";  //shows 'Hello....' as output
-cout<<"WORLD...!";
+cout<<"\nWELCOME...."; //shows 'WELCOME' on next line
 return 0;
 }
